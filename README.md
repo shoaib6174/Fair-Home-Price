@@ -1,6 +1,6 @@
 ﻿# Fair Home Price
 
-<a href='http://20.190.219.43/' target='_blank'> Live Website </a> 
+<a href='http://20.237.223.0/' target='_blank'> Live Website </a> 
 
 In this project I have-
 - Developed a ML model for predicting home price of Bengaluru City
